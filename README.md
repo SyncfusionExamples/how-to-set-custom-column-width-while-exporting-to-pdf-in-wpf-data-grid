@@ -54,5 +54,7 @@ public class SfDataGridToPdfConverterExt : SfDataGridToPdfConverter
 
 Take a moment to peruse the [WPF DataGrid - Export To PDF](https://help.syncfusion.com/wpf/datagrid/export-to-pdf) documentation, where you can find about export to PDF with code examples.
 
+KB article - [How to set custom column width while exporting to PDF in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12650/how-to-set-custom-column-width-while-exporting-to-pdf-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
